@@ -22,7 +22,8 @@ namespace LinkedListTest
 
         public override string ToString()
         {
-            return Value.ToString();
+            return $"Node Value = {Value.ToString()} / Node Previous = {Previous.Value.ToString()} / " +
+                $"Node Next = {Next.Value.ToString()}";
         }
     }
 }

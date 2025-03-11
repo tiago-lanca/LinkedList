@@ -44,7 +44,6 @@ namespace LinkedListTest
 
             if (Size > 0) {
 
-                int count = 0;
 
                 do
                 {
@@ -56,10 +55,9 @@ namespace LinkedListTest
                     }
 
                     node = node.Next;
-                    count++;
 
                 } 
-                while (count != Size);
+                while (node != Tail);
             }
 
             return null;
