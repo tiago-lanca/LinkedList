@@ -1,0 +1,14 @@
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\LinkedListTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\LinkedListTest.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\LinkedListTest.AssemblyInfo.cs
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\LinkedListTest.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\bin\Debug\net8.0\LinkedListTest.exe
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\bin\Debug\net8.0\LinkedListTest.deps.json
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\bin\Debug\net8.0\LinkedListTest.runtimeconfig.json
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\bin\Debug\net8.0\LinkedListTest.dll
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\bin\Debug\net8.0\LinkedListTest.pdb
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\LinkedListTest.dll
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\refint\LinkedListTest.dll
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\LinkedListTest.pdb
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\LinkedListTest.genruntimeconfig.cache
+C:\Users\tiago\source\repos\LinkedListTest\LinkedListTest\obj\Debug\net8.0\ref\LinkedListTest.dll
